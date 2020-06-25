@@ -1,0 +1,11 @@
+C:\taller1_2020(C#)\tpn10-NTVGcele\tp10\bin\Debug\netcoreapp2.1\tp10.deps.json
+C:\taller1_2020(C#)\tpn10-NTVGcele\tp10\bin\Debug\netcoreapp2.1\tp10.runtimeconfig.json
+C:\taller1_2020(C#)\tpn10-NTVGcele\tp10\bin\Debug\netcoreapp2.1\tp10.runtimeconfig.dev.json
+C:\taller1_2020(C#)\tpn10-NTVGcele\tp10\bin\Debug\netcoreapp2.1\tp10.dll
+C:\taller1_2020(C#)\tpn10-NTVGcele\tp10\bin\Debug\netcoreapp2.1\tp10.pdb
+C:\taller1_2020(C#)\tpn10-NTVGcele\tp10\obj\Debug\netcoreapp2.1\tp10.csprojAssemblyReference.cache
+C:\taller1_2020(C#)\tpn10-NTVGcele\tp10\obj\Debug\netcoreapp2.1\tp10.csproj.CoreCompileInputs.cache
+C:\taller1_2020(C#)\tpn10-NTVGcele\tp10\obj\Debug\netcoreapp2.1\tp10.AssemblyInfoInputs.cache
+C:\taller1_2020(C#)\tpn10-NTVGcele\tp10\obj\Debug\netcoreapp2.1\tp10.AssemblyInfo.cs
+C:\taller1_2020(C#)\tpn10-NTVGcele\tp10\obj\Debug\netcoreapp2.1\tp10.dll
+C:\taller1_2020(C#)\tpn10-NTVGcele\tp10\obj\Debug\netcoreapp2.1\tp10.pdb

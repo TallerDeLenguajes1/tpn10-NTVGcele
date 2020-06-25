@@ -1,0 +1,11 @@
+C:\taller1_2020(C#)\tpn10-NTVGcele\tp10Morse\bin\Debug\netcoreapp2.1\tp10Morse.deps.json
+C:\taller1_2020(C#)\tpn10-NTVGcele\tp10Morse\bin\Debug\netcoreapp2.1\tp10Morse.runtimeconfig.json
+C:\taller1_2020(C#)\tpn10-NTVGcele\tp10Morse\bin\Debug\netcoreapp2.1\tp10Morse.runtimeconfig.dev.json
+C:\taller1_2020(C#)\tpn10-NTVGcele\tp10Morse\bin\Debug\netcoreapp2.1\tp10Morse.dll
+C:\taller1_2020(C#)\tpn10-NTVGcele\tp10Morse\bin\Debug\netcoreapp2.1\tp10Morse.pdb
+C:\taller1_2020(C#)\tpn10-NTVGcele\tp10Morse\obj\Debug\netcoreapp2.1\tp10Morse.csprojAssemblyReference.cache
+C:\taller1_2020(C#)\tpn10-NTVGcele\tp10Morse\obj\Debug\netcoreapp2.1\tp10Morse.csproj.CoreCompileInputs.cache
+C:\taller1_2020(C#)\tpn10-NTVGcele\tp10Morse\obj\Debug\netcoreapp2.1\tp10Morse.AssemblyInfoInputs.cache
+C:\taller1_2020(C#)\tpn10-NTVGcele\tp10Morse\obj\Debug\netcoreapp2.1\tp10Morse.AssemblyInfo.cs
+C:\taller1_2020(C#)\tpn10-NTVGcele\tp10Morse\obj\Debug\netcoreapp2.1\tp10Morse.dll
+C:\taller1_2020(C#)\tpn10-NTVGcele\tp10Morse\obj\Debug\netcoreapp2.1\tp10Morse.pdb
